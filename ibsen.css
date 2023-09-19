@@ -8,21 +8,21 @@
     color: rgb(140, 88, 223);
   }
 .speech {
-    font-style: Arial; /* Change the font family to your preference */
-    font-size: 12px; /* Change the font size to your preference */
+    font-style: verdana ;
+    font-size: 14px;
     color: black;
   }
    .direction {
-    font-style: serif; /* Change the font family to your preference */
-    font-size: 16px; /* Change the font size to your preference */
+    font-style: serif; 
+    font-size: 13px; 
     color: black;
-    background-color: #bbb3b3; /* Light gray background color */
+    background-color: #f3f6f7;
 }
 .name {
     font-weight: bold;
-    color: red;
+    color: rgb(11, 11, 1);
   }
 .direction:hover {
-    background-color: #e4216f; /* New background color on hover */
-    color: rgba(250, 246, 247, 0.901); /* New text color on hover */
+    background-color: #e4216f; 
+    color: rgba(250, 246, 247, 0.901); ss
   }
