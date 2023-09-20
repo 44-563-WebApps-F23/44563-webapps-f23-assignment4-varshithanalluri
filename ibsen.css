@@ -1,19 +1,21 @@
 .character-Hedda {
+    font-style:monospace;
     font-weight: bold;
     color: rgb(237, 13, 13);
   }
 
   .character-Brack {
     font-weight: bold;
+    font-style: Serif; 
     color: rgb(140, 88, 223);
   }
 .speech {
-    font-style: verdana ;
+    font-style:Georgia ;
     font-size: 14px;
     color: black;
   }
    .direction {
-    font-style: serif; 
+    font-style:Lucida ; 
     font-size: 13px; 
     color: black;
     background-color: #f3f6f7;
