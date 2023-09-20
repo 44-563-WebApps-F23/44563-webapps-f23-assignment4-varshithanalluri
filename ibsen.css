@@ -29,13 +29,13 @@
     color: rgba(250, 246, 247, 0.901); 
   }
 .table {
-width:60%;
-height:150px;
-border:1px solid red ;
+width:5%;
+height:15px;
+border:1px dashed rgb(11, 1, 1) ;
 color:rgb(153, 13, 228);
 text-align:center;
-padding:4px;
-margin: 20px auto ;
+padding:6px;
+margin: 60px auto ;
 
   }
   tr:nth-child(odd) {
