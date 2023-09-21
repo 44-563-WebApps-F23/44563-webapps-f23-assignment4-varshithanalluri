@@ -1,11 +1,11 @@
 .character-Hedda {
-    font-style:monospace;
+    font-family:monospace;
     font-weight: bold;
     color: rgb(237, 13, 13);
   }
   .character-Brack {
     font-weight: bold;
-    font-style: Serif; 
+    font-family: Serif; 
     color: rgb(140, 88, 223);
   }
 .speech {
@@ -14,7 +14,7 @@
     color: black;
   }
    .direction {
-    font-style:Arial ; 
+    font-family:Arial ; 
     font-size: 14px; 
     color: black;
     background-color: #f3f6f7;
@@ -57,6 +57,6 @@
 }
 .name:hover {
   color: rgb(7, 243, 97); 
-  font-style: italic;
+  font-family: italic;
    
 }
