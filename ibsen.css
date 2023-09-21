@@ -3,10 +3,24 @@
     font-weight: bold;
     color: rgb(237, 13, 13);
   }
+  .character-Hedda:hover {
+    color: rgb(7, 243, 97); 
+  font-style: italic;
+  border: 2px solid #58a780;
+    color: rgb(11, 11, 1);
+    box-shadow: 4px 4px 10px rgba(124, 65, 169, 0.5);
+  }
   .character-Brack {
     font-weight: bold;
     font-family: Serif; 
     color: rgb(140, 88, 223);
+  }
+  .character-Brack:hover {
+    color: rgb(7, 243, 97); 
+  font-style: italic;
+  border: 2px solid #abba4e;
+    color: rgb(11, 11, 1);
+    box-shadow: 4px 4px 10px rgba(198, 120, 120, 0.5);
   }
 .speech {
     font-style:Times New Roman ;
@@ -14,7 +28,6 @@
     color: black;
   }
    .direction {
-    font-family:Arial ; 
     font-size: 14px; 
     color: black;
     background-color: #f3f6f7;
@@ -57,6 +70,6 @@
 }
 .name:hover {
   color: rgb(7, 243, 97); 
-  font-family: italic;
+  font-style: italic;
    
 }
