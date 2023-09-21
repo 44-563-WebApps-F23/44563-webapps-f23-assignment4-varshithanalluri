@@ -3,7 +3,6 @@
     font-weight: bold;
     color: rgb(237, 13, 13);
   }
-
   .character-Brack {
     font-weight: bold;
     font-style: Serif; 
@@ -22,13 +21,14 @@
 }
 .name {
     font-weight: bold;
+    border: 2px solid #000;
     color: rgb(11, 11, 1);
+    box-shadow: 4px 4px 10px rgba(130, 16, 16, 0.5);
   }
 .direction:hover {
     background-color: #e4216f; 
     color: rgba(250, 246, 247, 0.901); 
   }
-
 .table {
   width: 100%;
   border-collapse: separate;
@@ -47,16 +47,16 @@
   border: 1px solid #e8baba; 
   font-weight: bold; 
 }
-
-
 .tr:nth-child(odd) {
   background-color: #5313ad;
 }
-
-
 .td {
   text-align: center; 
   padding: 10px; 
-  border: 1px solid #ddd; 
-  
+  border: 1px solid #ddd;  
+}
+.name:hover {
+  color: rgb(7, 243, 97); 
+  font-style: italic;
+   
 }
