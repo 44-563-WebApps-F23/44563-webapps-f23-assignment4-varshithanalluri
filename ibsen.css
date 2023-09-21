@@ -73,3 +73,27 @@
   font-style: italic;
    
 }
+
+i{
+  color: red;
+  font-size: 100px !important;
+  display:block;
+  padding:30px;
+  color: blue;
+ width: 30px;
+}
+ul.navbar-horizontal a:hover {
+  background-color: rgb(85, 85, 85);
+  color:rgb(255, 255, 255);
+  }
+ul.navbar-horizontal li{
+  float: left;
+  background-color: blanchedalmond;
+
+}
+ul.navbar-horizontal{
+  list-style-type:none;
+  margin: 15;
+}
+
+
