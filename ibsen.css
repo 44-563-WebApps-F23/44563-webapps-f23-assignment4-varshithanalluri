@@ -28,16 +28,35 @@
     background-color: #e4216f; 
     color: rgba(250, 246, 247, 0.901); 
   }
-.table {
-width:5%;
-height:15px;
-border:1px dashed rgb(11, 1, 1) ;
-color:rgb(153, 13, 228);
-text-align:center;
-padding:6px;
-margin: 60px auto ;
 
-  }
-  tr:nth-child(odd) {
-    background-color: #f2f2f2; /* Light gray background color for even rows */
-  }
+.table {
+  width: 100%;
+  border-collapse: separate;
+  background-color: #f2f2f2; 
+  border: 2px solid #ddd; 
+  margin-top: 20px; 
+  color:red;
+  padding:2px;
+  text-align: center;
+}
+.th {
+  
+  color: rgb(251, 247, 247); 
+  text-align: center;
+  padding: 12px; 
+  border: 1px solid #e8baba; 
+  font-weight: bold; 
+}
+
+
+.tr:nth-child(odd) {
+  background-color: #5313ad;
+}
+
+
+.td {
+  text-align: center; 
+  padding: 10px; 
+  border: 1px solid #ddd; 
+  
+}
